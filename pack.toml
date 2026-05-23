@@ -1,0 +1,13 @@
+name = "Base"
+author = "Kriticales"
+version = "0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ab8320d07485e812b8de8e5c240918d57ef9ec1f2dea9c22f0a49fd4f9605e0a"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.230"
