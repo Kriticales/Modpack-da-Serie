@@ -1,4 +1,4 @@
-name = "Base"
+name = "The Modpack"
 author = "Kriticales"
 version = "0.1"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b84e1a03a78ccb6d56e8ce60bcf63fae93757672799b5f1d3307c3aad705a751"
+hash = "58f12ca2d33aafbc1a637c0d28224110170a0e25b2d035ff030fcf31252d93bb"
 
 [versions]
 minecraft = "1.21.1"
